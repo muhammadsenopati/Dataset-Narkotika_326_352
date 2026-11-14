@@ -16,7 +16,7 @@ Dataset berisi **53 putusan unik** yang telah dikumpulkan, diperiksa, dan dirapi
 | Keterangan | Informasi |
 |---|---|
 | Nama proyek | Dataset-Narkotika_326_352 |
-| Bidang | Pengolahan Dokumen Hukum dan Kecerdasan Buatan |
+| Kelas | Temu Kembali Informasi A |
 | Sumber dokumen | Direktori Putusan Mahkamah Agung Republik Indonesia |
 | Jenis perkara | Pidana narkotika dan perkara terkait |
 | Lembaga peradilan | Pengadilan Negeri Pekanbaru |
