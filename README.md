@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-completed-success?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/domain-dokumen%20hukum-blue?style=for-the-badge)
-![Data](https://img.shields.io/badge/data-52%20putusan-orange?style=for-the-badge)
+![Data](https://img.shields.io/badge/data-53%20putusan-orange?style=for-the-badge)
 ![Format](https://img.shields.io/badge/format-PDF%20%7C%20CSV%20%7C%20XLSX-purple?style=for-the-badge)
 
 ## Deskripsi
