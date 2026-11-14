@@ -30,13 +30,9 @@ Dataset berisi **53 putusan unik** yang telah dikumpulkan, diperiksa, dan dirapi
 ```text
 Dataset-Narkotika_326_352/
 ├── Dataset 326-352/
-│   ├── putusan_*.pdf
-│   ├── dataset_putusan_pn_pbr.csv
-│   └── dataset_putusan_pn_pbr.xlsx
+│   ├── Narkotika_*.zip
 ├── Overview 326-352/
-│   ├── ringkasan_dataset
-│   ├── dokumentasi_visual
-│   └── analisis_awal
+│   ├── Overview.xlsx
 └── README.md
 ```
 
